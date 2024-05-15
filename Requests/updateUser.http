@@ -1,0 +1,9 @@
+PATCH /users/6644cedfba9b425ae80a1b91 HTTP/1.1
+Host: localhost:8080
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NjQ0ZjA0YjVjZDlmMmM4N2YzOTcwMmUiLCJpYXQiOjE3MTU3OTQzMTUsImV4cCI6MTcxNTc5NzkxNX0.7GHWvYkO_rf2z8F12Jdg6HxSERbAEbDTTOXPfDqwi2o
+Content-Length: 68
+
+{
+  "username": "Dayna.Olson"
+}

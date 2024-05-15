@@ -1,0 +1,16 @@
+POST /users HTTP/1.1
+Host: localhost:8080
+Content-Type: application/json
+Content-Length: 302
+
+{
+  "username": "Clarabelle.Bogisich10",
+  "password": "IG6yW8HWVeA2Z55",
+  "isAdmin": true,
+  "profile": {
+    "firstName": "Jefferey",
+    "lastName": "Veum",
+    "bio": "Direct Applications Consultant",
+    "birthdate": "Tue Jan 16 2024 08:09:12 GMT+0300 (GMT+03:00)"
+  }
+}
